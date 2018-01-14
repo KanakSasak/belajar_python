@@ -1,7 +1,5 @@
-def func(param1):
+def func(param1, param3):
     dict = param1
-    param3 = "show"
-    # dict[param1] = param2
 
     if param3 == "show":
         for i in dict:
